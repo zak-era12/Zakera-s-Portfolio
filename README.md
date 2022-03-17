@@ -4,16 +4,24 @@ Feel Free to reach me at-<br>
 LinkedIn-https://www.linkedin.com/in/zakera-m-hanif-092381222<br>
 Gmail- zakera12m.hanif@gmail.com
 <br><br>
-# [Insights on Student Performance Dataset (ppt)](https://docs.google.com/presentation/d/1cchhBgCx6a0A51tJ9TV9QwUdstqUOeTZ/edit?usp=sharing&ouid=114238366880555900107&rtpof=true&sd=true)<br>
+## [Insights on Student Performance Dataset (ppt)](https://docs.google.com/presentation/d/1cchhBgCx6a0A51tJ9TV9QwUdstqUOeTZ/edit?usp=sharing&ouid=114238366880555900107&rtpof=true&sd=true)<br>
 - Performed EDA on the given Student Performance Dataset<br>
 - Used different machine learning techniques (only a few included in ppt) for data modelling<br>
 
-# [Insights on Marketing Analytics Dataset (ppt)](https://docs.google.com/presentation/d/1h_6QeqNSDgpiUxfmAVsIcGm5A9NnhBkl/edit?usp=sharing&rtpof=true&sd=true)<br>
+## [Insights on Marketing Analytics Dataset (ppt)](https://docs.google.com/presentation/d/1h_6QeqNSDgpiUxfmAVsIcGm5A9NnhBkl/edit?usp=sharing&rtpof=true&sd=true)<br>
 - Performed EDA on Supermarket Chain Dataset<br>
 - Performed Feature Engineering to generate new meaning data from existing columns<br>
 - Used different techniques like Linear and Logistic Regression, Random Forest Classificatiion etc.<br>
 
+## [Handwritten Digit Recognition using CNN ]
 
-# [Insurance cost prediction using linear regression](https://jovian.ai/zakera12m-hanif/02-insurance-linear-regression)
+## [Insurance cost prediction using linear regression](https://jovian.ai/zakera12m-hanif/02-insurance-linear-regression)
 - Predicting the cost of insurance using linear regression
-- P
+
+## [Image Classification using a basic feedforward NN](https://jovian.ai/zakera12m-hanif/03-cifar10-feedforward)
+
+## [EDA Report on World Happiness Dataset](https://jovian.ai/zakera12m-hanif/happiness-project)
+
+### Certifications<br>
+- [Deep Learning with Pytorch: Zero to GANs](https://jovian.ai/certificate/MFQTGOJUGU)<br>
+- [Data Analysis with Python: Zero to Pandas](https://jovian.ai/certificate/MFQTEOBQGM)
